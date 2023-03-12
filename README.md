@@ -33,10 +33,9 @@ All these features include the ability to add employee, update (edit), and retri
 
 - ## SYSTEM OVERVIEW
 
-Processor	Intel® Core™ i3-6006u CPU @2.00GHz 2.00 GHz Installed RAM	4.00 GB (3.89 GB usable)
+Processor	Intel® Core™ i3-6006u CPU @2.00GHz 2.00 GHz 
+Installed RAM	4.00 GB (3.89 GB usable)
 System Type	64-bit operating system, x64-based processor
-
-- ## SYSTEM OVERVIEW
 
 OUR	WELCOME	SCREEN/	MAIN	SCREEN	CONTAINS	7 OPTIONS: -
 
@@ -49,62 +48,7 @@ OUR	WELCOME	SCREEN/	MAIN	SCREEN	CONTAINS	7 OPTIONS: -
 7. **EXIT:** TO EXIT FROM THE SYSTEM.
 
 - ## APPLICATION
-
-
-
-
-
-
-
-
-
-
-
-
-MAIN MENU
-
-ADD RECORD
-
-LIST RECORD
-
-LIST SPECIFIC RECORD
-
-MODIFY COMPLETE RECORD
-
-MODIFY SPECIFIC RECORD
-
-DELETE RECORD
-
-EXIT
-
-LET THE USER TO ENTER ALL THE PERSONAL DETAILS
-
-LIST DETAILS OF ALL THE EMPLOYEES
-
-OF THE E	E
-
-MPLOY
-
-E
-
-DETAILS OF ANY SPECIFIC EMPLOYE E CAN BE ACCESSED USING EMP CODE
-
-MODIFY ALL THE RECORD OF ANY EMP WITH EMP CODE
-
-MODIFY ANY SPECIFIC FIELD
-
-DELETES THE DATA OF ANY EMP BY EMP CODE
-
-LIST OF FIELDS IS AVAILABL E TO LET USER SELECT THE FIELD TO BE MODIFIED
 ![](Aspose.Words.10e8dbbf-bb89-45cc-b004-292b3d4b45a5.001.png)
 
 - ## CONCLUSION
 Overall, the system is useful for companies to maintain personal information of its employees. With this system, it will be convenient to easily access the details of a particular employee with his unique employee code. The task of editing and modification of particular data of an employee has been also made easy and less time consuming. This system will save a lot of time and human effort and the details of the employees will be at the fingertips of the management that can be easily accessed, modified or deleted. The system is user friendly with options for most of the tasks that can be easily chosen by the user from the menu displayed on the screen. For further enhancement or development of the package, user’s feedback will be considered.
-
-
-
-
-
-
-
-
